@@ -9,18 +9,15 @@ To contribute to this repository, please provide your materials in markdown form
 
 Markdown also enables the use of in-line syntax highlighting like this:
 
-'''matlab
+```matlab
 myarray = magic(5)
 disp(sum(myarray))
-'''
+```
 
 *Please use and share these teaching materials, but be sure to credit our team:*
 
-*Lead Instructor:*
-*Jackson Burns ([personal site](https://jacksonwarnerburns.com))*
-*Instructors:*
-*Aaron Lam*
-*Elizabeth Votta*
-*Debugging Help:
-*Miles Simpson*
-*Jake Kalscheur*
+*Lead Instructor: Jackson Burns ([personal site](https://jacksonwarnerburns.com))*
+
+*Instructors: Aaron Lam, Elizabeth Votta*
+
+*Debugging Help: Miles Simpson, Jake Kalscheur*
