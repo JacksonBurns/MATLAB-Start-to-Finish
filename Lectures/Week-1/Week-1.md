@@ -1,6 +1,7 @@
 # Week 1 - MATLAB Fundamentals
 Reminder - the best place to learn MATLAB (or anything, really) is the internet! [StackOverflow](https://stackoverflow.com) and Mathworks' own [MATLAB Exchange](https://www.mathworks.com/matlabcentral/)
-are filled to the brim with people asking and answering questions about MATLAB.
+are filled to the brim with people asking and answering questions about MATLAB. [MATLAB's own documentation](https://www.mathworks.com/help/matlab/) is also extensive and extremely helpful.
+It includes descriptions of how to call functions as well as usage examples.
 
 ## What is MATLAB?
 Started as a simple program intended to give students an easy way to manipulate matrix-based data, hence **Mat**rix **Lab**oratory. Has grown over time
