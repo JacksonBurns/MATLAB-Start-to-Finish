@@ -17,7 +17,8 @@ MATLAB I think it is worth saving yourself the headache.
 ## Layout of the MATLAB User Interface
 The main window of MATLAB has three major components, the Current Folder, Command Window, and Workspace:
 ![Image of Default MATLAB Layout](MATLAB_default_layout.png)
-(taken from https://www.mathworks.com/help/matlab/learn_matlab/desktop.html)
+
+(taken from [MathWorks](https://www.mathworks.com/help/matlab/learn_matlab/desktop.html))
 
 The current folder is the same as your File Explorer. It shows you the folder that MATLAB currently has "open" and would be able to access files from in
 a script.
