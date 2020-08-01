@@ -3,9 +3,9 @@ Lectures, code examples, and practice questions for teaching MATLAB for applicat
 
 Follow these links to navigate:
 - [Main Page](https://jacksonburns.github.io/MATLAB-Start-to-Finish/)
-- [Lectures ](https://jacksonburns.github.io/MATLAB-Start-to-Finish/Lectures/Lectures-Landing-Page.md)
-- [Practice Problems](https://jacksonburns.github.io/MATLAB-Start-to-Finish/Practice-Problems/Practice-Problems-Landing-Page.md)
-- [Code Examples](https://jacksonburns.github.io/MATLAB-Start-to-Finish/Code-Examples/Code-Examples-Landing-Page.md)
+- [Lectures ](https://jacksonburns.github.io/MATLAB-Start-to-Finish/Lectures/Lectures-Landing-Page)
+- [Practice Problems](https://jacksonburns.github.io/MATLAB-Start-to-Finish/Practice-Problems/Practice-Problems-Landing-Page)
+- [Code Examples](https://jacksonburns.github.io/MATLAB-Start-to-Finish/Code-Examples/Code-Examples-Landing-Page)
 
 Included in this repository is an (approximately) 10-week curriculum intended to cover all the essentials of MATLAB, ranging from *what is the command window* up to evaluating partial differential equations symbolically.
 
