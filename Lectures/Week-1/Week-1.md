@@ -1,5 +1,5 @@
 # Week 1 - MATLAB Fundamentals
-Reminder - the best place to learn MATLAB (or anything, really) is the internet! [StackOverflow](https://stackoverflow.com) and Mathworks' own [MATLAB Exchange](https://www.mathworks.com/matlabcentral/)
+Reminder - the best place to learn MATLAB (or anything, really) is the internet! [StackOverflow](https://stackoverflow.com) and MathWorks' own [MATLAB Exchange](https://www.mathworks.com/matlabcentral/)
 are filled to the brim with people asking and answering questions about MATLAB. [MATLAB's own documentation](https://www.mathworks.com/help/matlab/) is also extensive and extremely helpful.
 It includes descriptions of how to call functions as well as usage examples.
 
@@ -9,7 +9,7 @@ to include support for signal processing, machine learning, solving differential
 
 ## Which version of MATLAB do I buy?
 To satisfy course requirements at the University of Delaware, and just generally to make MATLAB more useful you will need a couple of Toolboxes. These
-are the MATLAB equivalent of Python packages like numpy or SciPy - they add functionality to the base program. For our program, we reccomend the
+are the MATLAB equivalent of Python packages like numpy or SciPy - they add functionality to the base program. For our program, we recommend the
 Symbolic Math Toolbox and Curve Fitting Toolbox, both of which can be bought separately or come bundled in the *Student Suite*. UD has remote computing
 resources available, but they came with all the typical limitations of remote computing and for the highly discounted price of the Student License for
 MATLAB I think it is worth saving yourself the headache.
@@ -25,7 +25,7 @@ a script.
 The Command Window is synonymous to the Python interpreter. Commands issued here are interpreted, and their output written to the command window.
 
 The Workspace is the same as a function workspace, except that it persists between running scripts and even when no scripts are running. This makes
-protyping code very simple, as you can do somehting hack-y to get the variable you want, save the resulting variable, and then reuse for later use and
+prototyping code very simple, as you can do something hack-y to get the variable you want, save the resulting variable, and then reuse for later use and
 (hopefully) better code. 
 
 Here's an example:
@@ -54,7 +54,7 @@ memory efficient.
 
 ## MATLAB Syntax
 Most (if not all) of you have already taken Python, so I'll just put it this way: MATLAB is similar to Python but with a few differences:
-- MATLAB indexing of matrices uses parantheses, whereas Python uses brackets (This is tedious because functions also use parentheses.)
+- MATLAB indexing of matrices uses parentheses, whereas Python uses brackets (This is tedious because functions also use parentheses.)
 - MATLAB, for better of for worse, is a 1 index language (matrices start at 1).
 - Whereas Python requires the use of **import** statements to access functions written elsewhere, MTALAB is able to easily edit its own PATH variable,
 	meaning that it can access functions written anywhere.
@@ -70,7 +70,7 @@ end % this is technically optional, but will help you out massively
 
 ## Scipts and Live Scripts
 MATLAB allows you to issue a series of commands (in much the same way as a Python script) via a *.m* script file. This format is best for writing
-general purpose functions that you plan to call from other scripts. When calling scripts from other scripts, you use the filename which containts
+general purpose functions that you plan to call from other scripts. When calling scripts from other scripts, you use the filename which contains
 the desired function - MATLAB therefore enforces naming your *.m* files after the first function in the file. You can have other functions in the
 file (helper functions), but you will not be able to call them directly.
 
