@@ -58,6 +58,10 @@ Most (if not all) of you have already taken Python, so I'll just put it this way
 - MATLAB, for better of for worse, is a 1 index language (matrices start at 1).
 - Whereas Python requires the use of **import** statements to access functions written elsewhere, MTALAB is able to easily edit its own PATH variable,
 	meaning that it can access functions written anywhere.
+- MATLAB has the element *end* in every array, which allows you to easily add to existing arrays like this:
+```matlab
+my_array(end+1) = 3 % assign a new element to the end of my_array
+```
 - Function definitions look like this:
 ```matlab
 function out_value = my_Function(input_1,input_2):
