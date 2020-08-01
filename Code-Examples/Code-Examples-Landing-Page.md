@@ -11,4 +11,4 @@ Please follow the appropriate link below to view the code on GitHub.
 
 ## Week 2
 ### makePretty.m
-General plotting function example. [link](https://github.com/JacksonBurns/MATLAB-Start-to-Finish/blob/master/Code-20Examples/Week-2/makePretty.m)
+General plotting function example. [link](https://github.com/JacksonBurns/MATLAB-Start-to-Finish/blob/master/Code-Examples/Week-2/makePretty.m)
