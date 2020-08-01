@@ -8,7 +8,7 @@ Follow these links to navigate:
 Please follow the appropriate link below to view the lecture.
 
 ## Week 1
-General plotting function example. [link](https://jacksonburns.github.io/MATLAB-Start-to-Finish/Lectures/Week-1/Week-1.md)
+General plotting function example. [link](https://jacksonburns.github.io/MATLAB-Start-to-Finish/Lectures/Week-1/Week-1)
 
 ## Week 2
-General plotting function example. [link](https://jacksonburns.github.io/MATLAB-Start-to-Finish/Lectures/Week-2/Week-2.md)
+General plotting function example. [link](https://jacksonburns.github.io/MATLAB-Start-to-Finish/Lectures/Week-2/Week-2)

@@ -5,7 +5,7 @@ Follow these links to navigate:
 - [Practice Problems](https://jacksonburns.github.io/MATLAB-Start-to-Finish/Practice-Problems/Practice-Problems-Landing-Page)
 - [Code Examples](https://jacksonburns.github.io/MATLAB-Start-to-Finish/Code-Examples/Code-Examples-Landing-Page)
 
-Please follow the appropriate link below to view the code.
+Please follow the appropriate link below to view the code on GitHub.
 
 ## Week 1
 
