@@ -3,6 +3,8 @@ Reminder - the best place to learn MATLAB (or anything, really) is the internet!
 are filled to the brim with people asking and answering questions about MATLAB. [MATLAB's own documentation](https://www.mathworks.com/help/matlab/) is also extensive and extremely helpful.
 It includes descriptions of how to call functions as well as usage examples.
 
+[Return to Lectures](https://jacksonburns.github.io/MATLAB-Start-to-Finish/Lectures/Lectures-Landing-Page)
+
 ## Plotting Functions
 As an engineering student, it will be of great interest to you to be able to plot functions over a range to see how they behave. This could be anything
 from comparing the ideal gas law to the Peng-Robsinson equation of state or comparing concentrations across a gradient for a separation.

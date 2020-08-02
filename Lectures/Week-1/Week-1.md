@@ -3,6 +3,8 @@ Reminder - the best place to learn MATLAB (or anything, really) is the internet!
 are filled to the brim with people asking and answering questions about MATLAB. [MATLAB's own documentation](https://www.mathworks.com/help/matlab/) is also extensive and extremely helpful.
 It includes descriptions of how to call functions as well as usage examples.
 
+[Return to Lectures](https://jacksonburns.github.io/MATLAB-Start-to-Finish/Lectures/Lectures-Landing-Page)
+
 ## What is MATLAB?
 Started as a simple program intended to give students an easy way to manipulate matrix-based data, hence **Mat**rix **Lab**oratory. Has grown over time
 to include support for signal processing, machine learning, solving differential equations, and more.
