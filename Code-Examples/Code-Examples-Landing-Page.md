@@ -10,5 +10,20 @@ Please follow the appropriate link below to view the code on GitHub.
 ## Week 1
 
 ## Week 2
+
 ### makePretty.m
 General plotting function example. [link](https://github.com/JacksonBurns/MATLAB-Start-to-Finish/blob/master/Code-Examples/Week-2/makePretty.m)
+
+## Week 3
+
+## Week 4
+
+## Week 5
+
+## Week 6
+
+## Week 7
+
+## Week 8
+
+## Week 9

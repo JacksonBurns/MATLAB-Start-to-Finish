@@ -69,8 +69,13 @@ xlabels({"Day 1","Day 2"," Day 3"}) % can rename points to accurately reflect wh
 This group of functions is analogous the ones above, except that they operate on the vertical axis. I will point out that y tick labels are, by default,
 written horizontally for readability. If you want to rotate them, use *[ytickangle](https://www.mathworks.com/help/matlab/ref/ytickangle.html)* (and, for the horizontal axis *[xtickangle](https://www.mathworks.com/help/matlab/ref/xtickangle.html)*)
 
+### plot multiple lines on the same figure
+There are two ways to plot multiple lines on the same plot.
+1. When calling *plot*, provide the data as a 2D matrix. Each column will be plotted as a separate line.
+2. After plotting your first line, issue the command *hold on*. Subsequent calls to plot will be placed on the same figure, until you type *hold off* or start a new figure (*figure()*)
+
 ### gca and customizing axes, subplots
-You can modify all aspects of the axes on a plot, from how long the ticks are to which direction they face. Use a command like the one below to acccess
+You can modify all aspects of the axes on a plot, from how long the ticks are to which direction they face. Use a command like the one below to access
 the *axes* object for the current plot.
 ```matlab
 ax = gca;
@@ -83,7 +88,7 @@ I'll skip that here because it is generally easier to make multiple large plots 
 particularly for our engineering classes.
 
 ### General Plot Customizing Functions
-This code is shared as a *.m* file in the Code Examples repository with better in-line documentation.
+This code is shared as a *.m* file in the Code Examples repository with better in-line documentation [link](https://github.com/JacksonBurns/MATLAB-Start-to-Finish/blob/master/Code-Examples/Week-2/makePretty.m).
 
 Notice that we do not have to pass in any reference to the figure to operate on when calling *makePretty*. This is because plotting functions in
 MATLAB will inherently call *gcf* ([get current figure documentation](https://www.mathworks.com/help/matlab/ref/gcf.html) and operate on whatever
