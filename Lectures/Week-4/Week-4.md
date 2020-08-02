@@ -86,7 +86,9 @@ f(3,2)
 >> ans = 18
 ```
 Such symbolical-numeric hybrid functions come with all the benefits of being symbolic and numeric, including being array-valued by default (this can
-save you a lot a head ache with dot operators).
+save you a lot a head ache with dot operators). The drawback to trying to numerically evaluate symbolic functions, though, is the execution time. For
+simple functions with few points, it probably will not generate any noticeable overhead - but if you start evaluating multi-variate functions with thousands
+or millions of points, you may start to see the benefit of careful setup of numeric functions.
 
 Ultimately the decision is up to you, but we highly recommend keeping your numeric and symbolic functions separate and well labeled. In simple examples
 it's easy to handle the mental gymnastics, but when you have functions of functions (Week 7) and are working with iterative integral calculations (Week 5)
