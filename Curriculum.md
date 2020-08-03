@@ -11,7 +11,7 @@ examples and answer questions. They will then provide example problems to do out
  
  ## Schedule
  
-Week | Topic | Description | Homework
+Week | Topic | Description | Practice Problems
 :----:|:----:|:----:|:----:
 1 | MATLAB Fundamentals | Layout of the MATLAB window, 1 index language, basic syntax, thinking with matrices, 'import'-ing, scripts vs live scripts, plotting. | plotting exercises, function definitions, live scripts and scripts
 2 | Advanced Plotting | Customizing plots programmatically, plotting functions | Complex plotting exercises based on previously written functions
