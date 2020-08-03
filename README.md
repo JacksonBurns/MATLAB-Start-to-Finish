@@ -28,4 +28,4 @@ disp(sum(myarray))
 
 *Instructors: Aaron Lam, Elizabeth Votta*
 
-*Debugging Help: Miles Simpson, Jake Kalscheur*
+*Debugging Help: Miles Simpson, Jake Kalscheur, Josh Watson*
