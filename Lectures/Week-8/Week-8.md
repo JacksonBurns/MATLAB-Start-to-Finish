@@ -5,4 +5,4 @@ It includes descriptions of how to call functions as well as usage examples.
 
 [Return to Lectures](https://jacksonburns.github.io/MATLAB-Start-to-Finish/Lectures/Lectures-Landing-Page)
 
-## Common Errors Encountered in the Mini-Project
+This week of the class will be dedicated to helping with debugging or brainstorming solutions to the given problems.

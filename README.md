@@ -1,6 +1,7 @@
 # MATLAB Start to Finish
 Lectures, code examples, and practice questions for teaching MATLAB for applications in undergraduate chemical engineering classes. This course assumes a functional
-understanding of coding and draws heavily on a analogy to Python, so any introductory programming class should be sufficient to set you up for this course.
+understanding of coding and draws heavily on a analogy to Python, so any introductory programming class should be sufficient to set you up for this course. Students, as you complete
+the sample exercises or write MATLAB code relevant to the lessons, feel free to add to the repository via a pull request so that others can learn from your work!
 
 Follow these links to navigate:
 - [Main Page](https://jacksonburns.github.io/MATLAB-Start-to-Finish/)
