@@ -11,9 +11,8 @@ for the reaction in order to maximize your profit margin, but you need to be car
 
 Using the *Maydup equation of state* (see below), model the pressure of this system over a temperature range of 200 to 1000 kelvin. Assume a constant molar volume for hydrogen gas.
 - The *Maydup EoS* is given by:
-	- Q = -a x (Temperature)^2 + R x (Molar Volume) x (Temperature) *where*
-		- a = (Molar Volume) / pi *and*
-		- Q = P/(R^3)
+	- P = -a*(Temperature^2)*R/(Molar Volume) + R*(Temperature)/(Molar Volume)
+	- where a = 0.001 1/K
 
 Plot the result, making sure to format the plot (programmatically, hopefully) so that it would be publication-worthy. It should have a title, axes labels, appropriately scaled axes, etc.
 
