@@ -66,7 +66,7 @@ in the case of stability calculations. While there are methods which will automa
 they conceal a lot of the relevant math behind the systems and, while excellent tools once you have mastered the basics, can interfere with your understanding.
 This may seem medieval, but we recommend setting up systems which require iterative calculation using **for** or **while** loops, at least until you really understand how they work.
 
-For an example, let's try and solve *sin(x)=1*. Pretend for now that inverse sin does not exist, because you won't normally have a closed-form solution.
+For an example, let's try and solve *sin(x)=1*. Pretend for now that inverse sin does not exist, because you won't normally have a closed-form, analytical solution.
 
 ### Pseudocode - stdying the workflow
 First, let's do some pseudocode so that we can understand the workflow.
@@ -106,6 +106,9 @@ for attempt = [1:max_number_attempts]:
 	else:
 		guess = guess * 1.05;
 ```
+If this never reaches the acceptable error, you can add more iterations or restart the process with a better
+first guess. Odds are this won't work the first time, which is alright! Every time you revisit the problem, you learn more.
+
 Writing the guess-modifying *if* statements is the hardest part of iterative equation solving. It requires understanding the nature of the function you
 are trying to solve - speaking of which, can you think of a limitation of trying to solve a periodic function with iterative calculation?
 

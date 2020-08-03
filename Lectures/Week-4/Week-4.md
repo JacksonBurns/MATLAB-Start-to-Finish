@@ -64,7 +64,7 @@ symbolic to numeric is essentially just a semantic difference:
 ```matlab
 syms x
 func = sin(x);
-% solve this funciton using variable precision algebra
+% solve this function using variable precision algebra
 out = vpa(func == 1, x);
 % out is now a symbol, but can be made numeric with a simple call to double
 value = double(out);
