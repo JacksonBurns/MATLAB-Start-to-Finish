@@ -8,7 +8,7 @@ Follow these links to navigate:
 Please follow the appropriate link below to view the practice problems.
 
 ## Week 1
-
+* [Week 1 Mini-Assignment](https://github.com/JacksonBurns/MATLAB-Start-to-Finish/blob/master/Practice-Problems/Week-1/Mini-Assignment%20Week%201%20(1).pdf)
 ## Week 2
 
 ## Week 3
