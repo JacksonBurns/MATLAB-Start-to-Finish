@@ -9,14 +9,17 @@ Please follow the appropriate link below to view the practice problems.
 
 ## Week 1
 * [Week 1 Mini-Assignment](https://github.com/JacksonBurns/MATLAB-Start-to-Finish/blob/master/Practice-Problems/Week-1/Mini-Assignment%20Week%201%20(1).pdf)
+
 ## Week 2
+-[Week 2 Mini-Assignment](https://github.com/JacksonBurns/MATLAB-Start-to-Finish/blob/master/Practice-Problems/Week-2/Mini-Assignment%20Week%202.pdf)
 
 ## Week 3
 
 ## Week 4
+-[Week 4 Mini-Assignment](https://github.com/JacksonBurns/MATLAB-Start-to-Finish/blob/master/Practice-Problems/Week-4/Mini-Assignment%20Week%204.pdf)
 
 ## Week 5
-
+-[Week 5 Mini-Assignment](https://github.com/JacksonBurns/MATLAB-Start-to-Finish/blob/master/Practice-Problems/Week-5/Mini-Assignment%20Week%205.pdf)
 ## Week 6
 
 ## Week 7
