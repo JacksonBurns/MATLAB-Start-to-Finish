@@ -62,11 +62,11 @@ ans2e = mat_1 * mat_2(:,2)
 
 **Notes:**\
 Observe the Difference between the notation for matrix mulitplication **( * )** and element-wise multiplication **(.*)** \
-As a general rule, when attempting to multiply matrices the number of **columns** of the first matrix must match the same number **rows** of the second. And Order matters!\
+As a general rule, when attempting to multiply matrices the number of **columns** of the first matrix must match the same number **rows** of the second. And Order matters!
 
  EX: \
  2 x **3** * **3** x 1 Works!\
- 3 x **1** * **2** x 3 Does not work!\
+ 3 x **1** * **2** x 3 Does not work!
 
  One Final thing is that if you would like to add or subtract matrices togeather, they must have the exact same dimensions! 
 
