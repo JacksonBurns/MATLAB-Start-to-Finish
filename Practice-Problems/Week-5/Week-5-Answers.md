@@ -18,7 +18,7 @@ ans1b = integral(numeric_Q1,0,10)
 
 
 **Notes:**\
-Rememeber that you cannot differentiate when defining the function numerically. 
+Rememeber that you cannot differentiate numerical functions in MatLab using **diff**. (You will learn how to differentiate these functions in MATH350!)
 
 
 ## **Question 2**
