@@ -11,8 +11,7 @@ Follow these links to navigate:
 
 Included in this repository is an (approximately) 10-week curriculum intended to cover all the essentials of MATLAB, ranging from *"what is the command window?"* up to evaluating partial differential equations symbolically.
 
-Course taught with the support of the American Institute of Chemical Engineers at the University of Delaware.
-
+## Contributing
 To contribute to this repository, please provide your materials in markdown format (for lectures) or as *.m* or *.mlx* files (for MATLAB code). PDF's and PowerPoints are difficult to merge.
 
 Markdown also enables the use of in-line syntax highlighting like this:
@@ -21,6 +20,11 @@ Markdown also enables the use of in-line syntax highlighting like this:
 myarray = magic(5)
 disp(sum(myarray))
 ```
+
+## Notes
+If you believe a student has plagiarized code from this repository, we advise you use [this tool](http://theory.stanford.edu/~aiken/moss/) to check for similarity.
+
+Course taught with the support of the American Institute of Chemical Engineers at the University of Delaware.
 
 *Please use and share these teaching materials, but be sure to credit our team:*
 
