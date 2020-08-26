@@ -1,5 +1,5 @@
 # Week 4 Answers
-Feel free to copy the code provided into your own MatLab scripts to check your work! Please remember that although these are answers, there are multiple ways of doing the problem(s). We encourage you to develop your own method of writing and organizing your code!
+Feel free to copy the code provided into your own MATLAB scripts to check your work! Please remember that although these are answers, there are multiple ways of doing the problem(s). We encourage you to develop your own method of writing and organizing your code!
 - [Lectures ](https://jacksonburns.github.io/MATLAB-Start-to-Finish/Lectures/Lectures-Landing-Page)
 - [Practice Problems](https://jacksonburns.github.io/MATLAB-Start-to-Finish/Practice-Problems/Practice-Problems-Landing-Page)
 
@@ -61,7 +61,7 @@ hold off
 
 
 **Notes:**\
-Sometimes when evaluating your answers, MatLab may give you an answer in terms of a fraction. You can turn the answer in to a number by using the command **eval** as it is used in the answer above. [MathWorks: eval](https://www.mathworks.com/help/matlab/ref/eval.html)
+Sometimes when evaluating your answers, MATLAB may give you an answer in terms of a fraction. You can turn the answer in to a number by using the command **eval** as it is used in the answer above. [MathWorks: eval](https://www.mathworks.com/help/matlab/ref/eval.html)
 
 Here, we define the function using two variables, however, you can also do the same in the numerical case. Similar to how we define it before:
 ``` matlab

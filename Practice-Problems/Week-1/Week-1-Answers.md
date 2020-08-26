@@ -1,11 +1,11 @@
 # Week One Answers
-Feel free to copy the code provided into your own MatLab scripts to check your work! Please remember that although these are answers, there are multiple ways of doing the problem(s). We encourage you to develop your own method of writing and organizing your code!
+Feel free to copy the code provided into your own MATLAB scripts to check your work! Please remember that although these are answers, there are multiple ways of doing the problem(s). We encourage you to develop your own method of writing and organizing your code!
 - [Lectures ](https://jacksonburns.github.io/MATLAB-Start-to-Finish/Lectures/Lectures-Landing-Page)
 - [Practice Problems](https://jacksonburns.github.io/MATLAB-Start-to-Finish/Practice-Problems/Practice-Problems-Landing-Page)
 
 ## **Question 1**
 
-```matlab
+```MATLAB
 %Basic Matrix Problems (Week 1)
 
 %Defining the matrix
@@ -36,12 +36,12 @@ ans1f(3,2) = ans1e
 **Notes:** \
 Observe how we define the matrix. A comma is not necessary when defining a matrix, as well as the use of semi-colons to create the next row.\
  Another thing to note is how we call select elements and copy matrices. To call a specific element in a matrix, we must call it by it's **row** then **column**.\
-  The colon ( **:** ) is used in matrices to call **ALL** elements in a row or column. [MathWorks: Array Indexing](https://www.mathworks.com/help/matlab/math/array-indexing.html)\
+  The colon ( **:** ) is used in matrices to call **ALL** elements in a row or column. [MathWorks: Array Indexing](https://www.mathworks.com/help/MATLAB/math/array-indexing.html)\
   Finally, just like Python, if we would like to create a multiple of an element or matrix, we can make a new label for the matrix and copy the matrix and make modifications to the new one without affect the old one. 
 
 
 ## **Question 2**
-``` matlab
+``` MATLAB
 %Basic Matrix Problems 2 (Week 1)
 mat_2 = [5 1 7; 2 6 3; 4 8 9];
 
@@ -65,14 +65,14 @@ ans2e = mat_1 * mat_2(:,2)
 
 
 **Notes:**\
-Observe the Difference between the notation for matrix mulitplication **( * )** and element-wise multiplication **(.*)** \
-As a general rule, when attempting to do matrix mulitplication, the number of **columns** of the first matrix must match the same number **rows** of the second. And order matters!
+Observe the Difference between the notation for matrix multiplication **( * )** and element-wise multiplication **(.*)** \
+As a general rule, when attempting to do matrix multiplication, the number of **columns** of the first matrix must match the same number **rows** of the second. And order matters!
 
  EX: \
  2 x **3** * **3** x 1 Works!\
  3 x **1** * **2** x 3 Does not work!
 
- One Final thing is that if you would like to add or subtract matrices togeather, they must have the exact same dimensions! 
+ One Final thing is that if you would like to add or subtract matrices together, they must have the exact same dimensions! 
 
 
 ### **Question 3 (For Loop)**
@@ -95,9 +95,9 @@ end
 
 
 **Notes:** \
-A good habit when writting any conditionals or functions in matlab is to immediatly go to the next line and type **end**. This way, when you are typing out your code, you know what commands are in which conditional.\
+A good habit when writing any conditionals or functions in MATLAB is to immediately go to the next line and type **end**. This way, when you are typing out your code, you know what commands are in which conditional.\
 You can change the 10 in the **randi** command to any number to test to see if your for loop works or not!\
-[MathWorks: For Loops](https://www.mathworks.com/help/matlab/ref/for.html)
+[MathWorks: For Loops](https://www.mathworks.com/help/MATLAB/ref/for.html)
 
 
 
@@ -123,7 +123,7 @@ end
 
 
 **Notes:**\
-In this funciton, I just copied the answers from the respective parts and placed them in.\
+In this function, I just copied the answers from the respective parts and placed them in.\
 Remember that ***Functions must be in their own file (.m file).*** In order to call the function, the file must be in your current folder.\
  In this case, since there are multiple returned values. In order to call this function to return all of the answers, it would be called the same exact way it is defined.
 
@@ -133,5 +133,5 @@ Remember that ***Functions must be in their own file (.m file).*** In order to c
  ```
 
 
-You can change the varable names of the answers when you call it here.\
-[MathWorks: function](https://www.mathworks.com/help/matlab/ref/function.html)
+You can change the variable names of the answers when you call it here.\
+[MathWorks: function](https://www.mathworks.com/help/MATLAB/ref/function.html)

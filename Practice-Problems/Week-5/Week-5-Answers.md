@@ -1,5 +1,5 @@
 # Week 5 Answers
-Feel free to copy the code provided into your own MatLab scripts to check your work! Please remember that although these are answers, there are multiple ways of doing the problem(s). We encourage you to develop your own method of writing and organizing your code!
+Feel free to copy the code provided into your own MATLAB scripts to check your work! Please remember that although these are answers, there are multiple ways of doing the problem(s). We encourage you to develop your own method of writing and organizing your code!
 - [Lectures ](https://jacksonburns.github.io/MATLAB-Start-to-Finish/Lectures/Lectures-Landing-Page)
 - [Practice Problems](https://jacksonburns.github.io/MATLAB-Start-to-Finish/Practice-Problems/Practice-Problems-Landing-Page)
 
@@ -18,7 +18,7 @@ ans1b = integral(numeric_Q1,0,10)
 
 
 **Notes:**\
-Rememeber that you cannot differentiate numerical functions in MatLab using **diff**. (You will learn how to differentiate these functions in MATH350!)
+Remember that you cannot differentiate numerical functions in MATLAB using **diff**. (You will learn how to differentiate these functions in MATH350!)
 
 
 ## **Question 2**
@@ -48,11 +48,11 @@ ans2d = eval(ans2d);
 
 
 **Notes:**\
-One of the most powerful aspects of Matlab's Symbolic Toolbox is its ability to differentiate and intergrate symbolically. With it, we can quickly define a new function as the derivative or intergral of a previous function. \
+One of the most powerful aspects of MATLAB's Symbolic Toolbox is its ability to differentiate and integrate symbolically. With it, we can quickly define a new function as the derivative or integral of a previous function. \
 [Week 4: Differentiation](https://jacksonburns.github.io/MATLAB-Start-to-Finish/Lectures/Week-4/Week-4)\
 [Week 5: Integrating](https://jacksonburns.github.io/MATLAB-Start-to-Finish/Lectures/Week-5/Week-5)
 
 ## **Week 5 Function**
 **Note:**\
-We are leaving this section purposely blank. This becasue this section will eventually become an aspect of your project in which case you can modify to work for the respective part. We encourage you to learn and create your own individual algorithms with the skills from the session, as well as the assignments. If you have any questions about your code, please reach out to the intructors and assistants!\
+We are leaving this section purposely blank. This because this section will eventually become an aspect of your project in which case you can modify to work for the respective part. We encourage you to learn and create your own individual algorithms with the skills from the session, as well as the assignments. If you have any questions about your code, please reach out to the instructors and assistants!\
 [Week 5: Iterative Solving](https://jacksonburns.github.io/MATLAB-Start-to-Finish/Lectures/Week-5/Week-5)
