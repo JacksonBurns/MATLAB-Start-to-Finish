@@ -18,11 +18,11 @@ Please follow the appropriate link below to view the practice problems.
 ## Week 3
 
 ## Week 4
-- [Week 4 Mini-Assignment](https://jacksonburns.github.io/MATLAB-Start-to-Finish/Practice-Problems/Week-3/Mini-Assignment_Week_3)
+- [Week 4 Mini-Assignment](https://jacksonburns.github.io/MATLAB-Start-to-Finish/Practice-Problems/Week-4/Mini-Assignment_Week_4)
 - [Week 4 Answers](https://jacksonburns.github.io/MATLAB-Start-to-Finish/Practice-Problems/Week-4/Week-4-Answers)
 
 ## Week 5
-- [Week 5 Mini-Assignment](https://jacksonburns.github.io/MATLAB-Start-to-Finish/Practice-Problems/Week-4/Mini-Assignment_Week_4)
+- [Week 5 Mini-Assignment](https://jacksonburns.github.io/MATLAB-Start-to-Finish/Practice-Problems/Week-5/Mini-Assignment_Week_5)
 - [Week 5 Answers](https://jacksonburns.github.io/MATLAB-Start-to-Finish/Practice-Problems/Week-5/Week-5-Answers)
 
 ## Week 6
