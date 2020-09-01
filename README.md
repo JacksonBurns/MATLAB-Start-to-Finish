@@ -28,8 +28,8 @@ Course taught with the support of the American Institute of Chemical Engineers a
 
 *Please use and share these teaching materials, but be sure to credit our team:*
 
-*Lead Instructor: Jackson Burns ([personal site](https://jacksonwarnerburns.com))*
+*Lectures: Jackson Burns ([personal site](https://jacksonwarnerburns.com))*
 
-*Instructors: Aaron Lam, Elizabeth Votta*
+*Practice Problems: Aaron Lam
 
-*Debugging Help: Miles Simpson, Jake Kalscheur, Josh Watson*
+*Debugging Help: Miles Simpson, Jake Kalscheur, Josh Watson, Elizabeth Votta*
