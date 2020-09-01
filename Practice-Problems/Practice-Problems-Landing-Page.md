@@ -8,21 +8,21 @@ Follow these links to navigate:
 Please follow the appropriate link below to view the practice problems.
 
 ## Week 1
-- [Week 1 Mini-Assignment](https://github.com/JacksonBurns/MATLAB-Start-to-Finish/blob/master/Practice-Problems/Week-1/Mini-Assignment_Week_1)
+- [Week 1 Mini-Assignment](https://jacksonburns.github.io/MATLAB-Start-to-Finish/blob/master/Practice-Problems/Week-1/Mini-Assignment_Week_1)
 - [Week 1 Answers](https://jacksonburns.github.io/MATLAB-Start-to-Finish/Practice-Problems/Week-1/Week-1-Answers)
 
 ## Week 2
-- [Week 2 Mini-Assignment](https://github.com/JacksonBurns/MATLAB-Start-to-Finish/blob/master/Practice-Problems/Week-2/Mini-Assignment_Week_2)
+- [Week 2 Mini-Assignment](https://jacksonburns.github.io/MATLAB-Start-to-Finish/blob/master/Practice-Problems/Week-2/Mini-Assignment_Week_2)
 - [Week 2 Answers](https://jacksonburns.github.io/MATLAB-Start-to-Finish/Practice-Problems/Week-2/Week-2-Answers)
 
 ## Week 3
 
 ## Week 4
-- [Week 4 Mini-Assignment](https://github.com/JacksonBurns/MATLAB-Start-to-Finish/blob/master/Practice-Problems/Week-4/Mini-Assignment_Week_4)
+- [Week 4 Mini-Assignment](https://jacksonburns.github.io/MATLAB-Start-to-Finish/blob/master/Practice-Problems/Week-4/Mini-Assignment_Week_4)
 - [Week 4 Answers](https://jacksonburns.github.io/MATLAB-Start-to-Finish/Practice-Problems/Week-4/Week-4-Answers)
 
 ## Week 5
-- [Week 5 Mini-Assignment](https://github.com/JacksonBurns/MATLAB-Start-to-Finish/blob/master/Practice-Problems/Week-5/Mini-Assignment_Week_5)
+- [Week 5 Mini-Assignment](https://jacksonburns.github.io/MATLAB-Start-to-Finish/blob/master/Practice-Problems/Week-5/Mini-Assignment_Week_5)
 - [Week 5 Answers](https://jacksonburns.github.io/MATLAB-Start-to-Finish/Practice-Problems/Week-5/Week-5-Answers)
 
 ## Week 6

@@ -23,6 +23,7 @@ General plotting function example. [link](https://github.com/JacksonBurns/MATLAB
 ## Week 6
 
 ## Week 7
+Incomplete project solution. [link](https://github.com/JacksonBurns/MATLAB-Start-to-Finish/blob/master/Code-Examples/Week-7/Josh-example-soln.m)
 
 ## Week 8
 
