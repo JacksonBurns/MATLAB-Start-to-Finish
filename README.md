@@ -30,6 +30,6 @@ Course taught with the support of the American Institute of Chemical Engineers a
 
 *Lectures: Jackson Burns ([personal site](https://jacksonwarnerburns.com))*
 
-*Practice Problems: Aaron Lam
+*Practice Problems: Aaron Lam*
 
 *Debugging Help: Miles Simpson, Jake Kalscheur, Josh Watson, Elizabeth Votta*
