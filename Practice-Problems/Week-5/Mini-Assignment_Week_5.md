@@ -11,6 +11,7 @@ To download this file as a PDF, go [here](https://github.com/JacksonBurns/MATLAB
 1. Define the following function ​ **numerically** ​, then do the following exercises.
   - Evaluate the function at X = 3
   - Integrate the function with respect to X on the range from [1,10]
+ 
 ![Image of formula needed for problem 1](formula_1.png)
 
 2. Define the following function ​ **symbolically** ​, then do the following exercises.
@@ -19,6 +20,7 @@ To download this file as a PDF, go [here](https://github.com/JacksonBurns/MATLAB
   - Evaluate the Function on a range of Y = [0, 10] while keeping X = 5.
   - Differentiate the function with respect to X, then evaluate the function at X = 6, Y = 3
   - Integrate the function with respect to Y, then evaluate the function at the bounds X = [1,10], Y = [3, 12]
+
 ![Image of formula needed for problem 2](formula_2.png)
 
 ## Iterative Integral Analysis

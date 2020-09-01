@@ -15,6 +15,7 @@ To download this file as a PDF, go [here](https://github.com/JacksonBurns/MATLAB
   - Isolate column 3
   - Divide 8 by 2 and subtract it by 5
   - Replace the 7 with your answer from e
+
 ![Image of Matrix needed for problem 1](matrix_1.png)
 
 2. Define the following additional matrix and do the following exercises with the matrix from the first exercise
@@ -23,14 +24,13 @@ To download this file as a PDF, go [here](https://github.com/JacksonBurns/MATLAB
   - Add and subtract the matrices element-wise
   - Add the 3 from both matrices together
   - Multiply the entire first matrix by the second column in the second matrix. (PS: Order matters!)
+
 ![Image of Matrix needed for problem 2](matrix_2.png)
 	
 ## For Loop Exercises
 1. Create a for loop that accepts a 1xm matrix of random numbers of 0 and 1 and tells you how many elements are greater than 0.
-  - You can create such a matrix by the following command:
-    - randi([0,1],n,m)
-  - To find the length of a list, use the following command:
-    - length(x)
+  - You can create such a matrix by the following command: *randi([0,1],n,m)*
+  - To find the length of a list, use the following command: *length(x)*
 
 ## Script/Function Exercises
 1. Create a function that accepts two matrices and gives outputs for the operations done in the Live Script Exercises 1a, 1c, 1d, 2a-c, and 2e.

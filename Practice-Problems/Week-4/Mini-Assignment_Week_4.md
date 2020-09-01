@@ -11,10 +11,12 @@ To download this file as a PDF, go [here](https://github.com/JacksonBurns/MATLAB
 1. Define the following function ​ **numerically** ​, then apply the following exercises to it
   - Evaluate the function at X = 77
   - Evaluate the function from X = 0 to X = 10
+
 ![Image of formula needed for problem 1](formula_1.png)
 
 2. Define the following function, but this time ​ **symbolically** ​, then apply the following exercises.
   - Solve the function at X = 2 , Y = 4
   - Evaluate the function on the range of Y = [0, 1] with 100 points while keeping X = 1.
     - Graph the values from the previous exercise where the answer to b is your y-values going from 0=>99
+
 ![Image of formula needed for problem 2](formula_2.png)

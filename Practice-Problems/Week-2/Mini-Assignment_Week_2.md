@@ -12,7 +12,9 @@ To download this file as a PDF, go [here](https://github.com/JacksonBurns/MATLAB
   - Graph the points on a graph
   - Using the same independent values, apply the following formula and add it to the same graph as in the previous part.
     - Afterwards redo the same, but now have two separate graphs for each plot.
+
 ![Image of formula needed for problem 1](formula_1.png)
+
 ![Image of formula needed for problem 1b](formula_2.png)
 
 *(PLEASE BE SURE TO LABEL YOUR AXIS, TITLE YOUR GRAPHS, AND LABEL YOUR LEGEND)*
