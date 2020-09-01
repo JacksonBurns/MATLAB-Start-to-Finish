@@ -5,22 +5,23 @@ Feel free to copy the code provided into your own MATLAB scripts to check your w
 
 To download this file as a PDF, go [here](https://github.com/JacksonBurns/MATLAB-Start-to-Finish/blob/master/Practice-Problems/Week-1/Mini-Assignment%20Week%201.pdf).
 
-## **Integration and Differentiation Exercises (Week 5)**
+## Integration and Differentiation Exercises
 *Please remember to comment your code and label your graphs!*
 
 1. Define the following function ​ **numerically** ​, then do the following exercises.
+  - Evaluate the function at X = 3
+  - Integrate the function with respect to X on the range from [1,10]
 ![Image of formula needed for problem 1](formula_1.png)
-  a. Evaluate the function at X = 3
-  b. Integrate the function with respect to X on the range from [1,10]
 
 2. Define the following function ​ **symbolically** ​, then do the following exercises.
-![Image of formula needed for problem 2](formula_2.png)
-  a. Evaluate the function at X = 2, Y = 9
-  b. Evaluate the Function on a range of Y = [0, 10] while keeping X = 5.
-  c. Differentiate the function with respect to X, then evaluate the function at X = 6, Y = 3
-  d. Integrate the function with respect to Y, then evaluate the function at the bounds X = [1,10], Y = [3, 12]
 
-## **Iterative Integral Analysis**
+  - Evaluate the function at X = 2, Y = 9
+  - Evaluate the Function on a range of Y = [0, 10] while keeping X = 5.
+  - Differentiate the function with respect to X, then evaluate the function at X = 6, Y = 3
+  - Integrate the function with respect to Y, then evaluate the function at the bounds X = [1,10], Y = [3, 12]
+![Image of formula needed for problem 2](formula_2.png)
+
+## Iterative Integral Analysis
 
 *This is an important function for the project!*
 1. Define the following function ​ **either** ​numerically or symbolically, and find the value at which the lower and the upper integrals have the same value within the bounds. 

@@ -5,16 +5,16 @@ Feel free to copy the code provided into your own MATLAB scripts to check your w
 
 To download this file as a PDF, go [here](https://github.com/JacksonBurns/MATLAB-Start-to-Finish/blob/master/Practice-Problems/Week-4/Mini-Assignment%20Week%204.pdf).
 
-## **Numeric/Symbolic Exercises (Week 4):**
+## Numeric/Symbolic Exercises
 *Please remember to comment your code and label your graphs!*
 
 1. Define the following function ​ **numerically** ​, then apply the following exercises to it
+  - Evaluate the function at X = 77
+  - Evaluate the function from X = 0 to X = 10
 ![Image of formula needed for problem 1](formula_1.png)
-  a. Evaluate the function at X = 77
-  b. Evaluate the function from X = 0 to X = 10
 
 2. Define the following function, but this time ​ **symbolically** ​, then apply the following exercises.
+  - Solve the function at X = 2 , Y = 4
+  - Evaluate the function on the range of Y = [0, 1] with 100 points while keeping X = 1.
+    - Graph the values from the previous exercise where the answer to b is your y-values going from 0=>99
 ![Image of formula needed for problem 2](formula_2.png)
-  a. Solve the function at X = 2 , Y = 4
-  b. Evaluate the function on the range of Y = [0, 1] with 100 points while keeping X = 1.
-    1. Graph the values from the previous exercise where the answer to b is your y-values going from 0=>99
