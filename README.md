@@ -18,9 +18,26 @@ Markdown also enables the use of in-line syntax highlighting like this:
 
 ```matlab
 myarray = magic(5)
-disp(sum(myarray))
+for elt = myarray
+  if(elt<20)
+    disp(elt*2)
+end
 ```
 
+Which is written like this:
+
+<pre>```matlab
+myarray = magic(5)
+for elt = myarray
+  if(elt<20)
+    disp(elt*2)
+end
+```</pre>
+
+If you make changes to the Markdown files in the repository, please run the Python script in the root directory to rebuild the PDFs. Assuming that python is installed, this can be done with the following command in terminal/command prompt:
+```shell
+python makePDFs.py
+```
 ## Notes
 If you believe a student has plagiarized code from this repository, we advise you use [this tool](http://theory.stanford.edu/~aiken/moss/) to check for similarity.
 
