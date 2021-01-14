@@ -95,8 +95,7 @@ particularly for our engineering classes.
 This code is shared as a *.m* file in the Code Examples repository with better in-line documentation [link](https://github.com/JacksonBurns/MATLAB-Start-to-Finish/blob/master/Code-Examples/Week-2/makePretty.m).
 
 Notice that we do not have to pass in any reference to the figure to operate on when calling *makePretty*. This is because plotting functions in
-MATLAB will inherently call *gcf* ([get current figure documentation](https://www.mathworks.com/help/matlab/ref/gcf.html) and operate on whatever
-plot is currently active.
+MATLAB will inherently call *gcf* ([get current figure documentation](https://www.mathworks.com/help/matlab/ref/gcf.html) which is not a variable but rather a function. Whenever you call it, it will retrieve whichever is the current figure. gcf returns the current figure handle. If a figure does not exist, then gcf creates a figure and returns its handle. You can use the figure handle to query and modify figure properties.
 ```matlab
 function makePretty(intitle,inxlabel,inylabel)
     grid on
