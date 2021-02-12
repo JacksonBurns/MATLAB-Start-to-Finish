@@ -39,13 +39,20 @@ endobj
 7 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://jacksonburns.github.io/MATLAB-Start-to-Finish/Lectures/Lectures-Landing-Page)
->> /Border [ 0 0 0 ] /Rect [ 29.34646 735.0021 91.04146 746.2521 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://jacksonburns.github.io/MATLAB-Start-to-Finish/Lectures/Week-8/Week-8.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 130.6415 735.0021 145.649 746.2521 ] /Subtype /Link /Type /Annot
 >>
 endobj
 8 0 obj
 <<
-/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R ] /Contents 14 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 13 0 R /Resources <<
+/A <<
+/S /URI /Type /Action /URI (https://jacksonburns.github.io/MATLAB-Start-to-Finish/Lectures/Lectures-Landing-Page)
+>> /Border [ 0 0 0 ] /Rect [ 29.34646 714.2521 91.04146 725.5021 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R ] /Contents 15 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 14 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -53,41 +60,41 @@ endobj
 >> /Type /Page
 >>
 endobj
-9 0 obj
-<<
-/Outlines 11 0 R /PageMode /UseNone /Pages 13 0 R /Type /Catalog
->>
-endobj
 10 0 obj
 <<
-/Author () /CreationDate (D:20201223150722+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20201223150722+05'00') /Producer (xhtml2pdf <https://github.com/xhtml2pdf/xhtml2pdf/>) 
-  /Subject () /Title () /Trapped /False
+/Outlines 12 0 R /PageMode /UseNone /Pages 14 0 R /Type /Catalog
 >>
 endobj
 11 0 obj
 <<
-/Count 1 /First 12 0 R /Last 12 0 R /Type /Outlines
+/Author () /CreationDate (D:20210211230404+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20210211230404+05'00') /Producer (xhtml2pdf <https://github.com/xhtml2pdf/xhtml2pdf/>) 
+  /Subject () /Title () /Trapped /False
 >>
 endobj
 12 0 obj
 <<
-/Dest [ 8 0 R /Fit ] /Parent 11 0 R /Title (Week 8 - Mini-Project Help)
+/Count 1 /First 13 0 R /Last 13 0 R /Type /Outlines
 >>
 endobj
 13 0 obj
 <<
-/Count 1 /Kids [ 8 0 R ] /Type /Pages
+/Dest [ 9 0 R /Fit ] /Parent 12 0 R /Title (Week 8 - Mini-Project Help)
 >>
 endobj
 14 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 797
+/Count 1 /Kids [ 9 0 R ] /Type /Pages
+>>
+endobj
+15 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 927
 >>
 stream
-Gat$uhbVu\&:X(TEI.ba@H.41,=o%5!c:1J??gJ=CD6!c`HK>tmrqMn76?l%;-NkBGMdUgT>MhFLC_."$ZK.`aTVnj6Fd4?ZP^hX3%np*ZYOm_F?7WK'W5pX=cop4%6;DAEcX43/?Hpe4NsLk;.@8YiW8(J'LYd+^_<$p4A7laa[PEA;4]'T58YHJK#9[g2<8]b=,gsTIiJ?:Q%L/,2b-\.5l&rO]H0%=^V_l\=<>oM4f2?nGo$?po\=hd.1"CaV*X+I'T"3f6:Ca/<u)+OF>1jI<Wq+$aZ,tdP&TmVRlEOV=W@Iga?'T]7DQ3bQ<W*]n4l%i!_SZMR@Ls4P!d7_\p/jEUD@OAO01s>UNNf'U-`f;,RU=)lEn2d4bNW!D*Y%4=#Xme%1ERmTC7i6YsW&s*#aP!$OlDEH$G!H-`ZjC-T"JqqlOd)VgJl^'!AstAo/&DpM)p?69kKKeO$D-T*,@,fgpr-:O";(1bJ?ZX']CV\3[fj#f<a$q#Dk.mEt^b@n.7m>$2DXh79Lep,7g24"sq'WbYHli</f\;*0H<)XreTAXb%e!,6)M7JR?L$$=il#!X.$XHMB@/^R^iAht(I9;lu/j_P='W7A-=<&HD<cm)]W^U%C'P[1XqTk,<HITWfsqkWcb86J%]3TVe<ahJ\*&9m3%Z2FXej-0=E7gc$5?..j%%,)4n&CB]0GP?0k`[R3rj*OHA(`J,F<@*>F$OMfq#`WWI<5OW`o)nYXnrb6D]N_N9Q7gA9LdkOF:$W6hbANj-,h*Qc6c$e+\]"34ftm#.[hj$%~>endstream
+GatU09iKe#&A@7.Cem<o#g;*h_>nFc@*47;\8Y<89l,of+N_.hpK]d&%0:'-4!#d?Y#bGnm9=Q9ki'EteH28*E-0BVLJU`sa"2u9!m\s9e**6,^=jUi/;hn9KrdgIObTB82r#A_<u+hI;'+lHO6BuccG]n*_^L>6Ck3rbaa'9K6q?F6pI0@nq#%ttQl58J+[/4&LN(qFk4$OW#HSpC5WM&Znc?n:*olpDnbN?`EP_4-(*=^EK#j_N7n_1QpQ:%]%9XSprfeVsTN[-W?a4%%E(_.F4D%$D^"O>O<(R^?m<po(cZ9jl^bbO6K>Sm@=[^H@m<.nK3[77]-3K[+]eIPO@p:M@@,%Ud)WK/p#\14Ok#,.a:4krC'O2]G(WRnB^TS(P[;^8`B&CCsOE,>j!0&!C)s,EpFC/FKIu2'U\94Nlr:Q"\.WrN"/[NoO'=\aZ^=25lmXafVG5*Qag$bpVC5-X:0F6,s8t:.A6OBW(Tl437,(ohSlFB:op5tFI.>>&j)ZTK[;8nMq(;s=!DH/67+2sfl&5I>t[A]VbJ_P^2%O%qYr9[>6jr&r-oOY6q\U^+O3pe2FT8kn3A2cd^oN%iW07i=9e@MPuecf#@2,$)3XcQ`MOY$.^=YW9)?*mS)ANMD,/6J!^;Y`Et-'?JO(9cfCH-2j(r+kkTHmQ[hjh%J\P\?=c:_.@$DshD8iWNMWSo8hI7e9(Pp\R>594*&WAuO&^8$W\sdk.uMPIMa'c`-AN,8&&;VjSIZ_ErI$"JgB;'/:fHY@k_FmA.?YfU_#P<hI'1Jdla!cI1^%W9(&\G9%,I<I$n)@n1\.>!\V+@69>,?Wpe4#5%m)-bXkq.k*#PBU4KpRYV8mbUplhc\rrH5Lng4GI*_;e@o"Y;:]I1H@sbR>E6ei/st&a.I+Da95Hg0%iG6GYGfaO~>endstream
 endobj
 xref
-0 15
+0 16
 0000000000 65535 f 
 0000000073 00000 n 
 0000000114 00000 n 
@@ -96,23 +103,24 @@ xref
 0000000510 00000 n 
 0000000700 00000 n 
 0000000889 00000 n 
-0000001125 00000 n 
-0000001366 00000 n 
-0000001452 00000 n 
-0000001705 00000 n 
-0000001779 00000 n 
-0000001873 00000 n 
-0000001933 00000 n 
+0000001120 00000 n 
+0000001356 00000 n 
+0000001603 00000 n 
+0000001690 00000 n 
+0000001943 00000 n 
+0000002017 00000 n 
+0000002111 00000 n 
+0000002171 00000 n 
 trailer
 <<
 /ID 
-[<60fe10f7f73c49071f939d4771ac9fdd><60fe10f7f73c49071f939d4771ac9fdd>]
+[<59da3bb5e8ff14234582f610463f84e8><59da3bb5e8ff14234582f610463f84e8>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
-/Info 10 0 R
-/Root 9 0 R
-/Size 15
+/Info 11 0 R
+/Root 10 0 R
+/Size 16
 >>
 startxref
-2821
+3189
 %%EOF
