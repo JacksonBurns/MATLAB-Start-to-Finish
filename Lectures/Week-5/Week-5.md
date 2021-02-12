@@ -70,7 +70,7 @@ This may seem medieval, but we recommend setting up systems which require iterat
 
 For an example, let's try and solve *sin(x)=1*. Pretend for now that inverse sin does not exist, because you won't normally have a closed-form, analytical solution.
 
-### Pseudocode - stdying the workflow
+### Pseudocode - studying the workflow
 First, let's do some pseudocode so that we can understand the workflow.
 ```matlab
 % set up our symbols and function - for iterative calculation, we use numeric functions
@@ -81,11 +81,11 @@ initial_guess = 2.0
 for attempt = 1:max_number_attempts:
 	% evaluate sin at our current guess
 	temp = evaluate...
-	
+
 	% check to see if we are acceptably close to the answer
 	if abs(1 - temp) < acceptable_error:
 		% done
-		
+
 	elseif % vale is too small:
 		% make our guess smaller
 	else: % our value must be too big
@@ -113,4 +113,3 @@ first guess. Odds are this won't work the first time, which is alright! Every ti
 
 Writing the guess-modifying *if* statements is the hardest part of iterative equation solving. It requires understanding the nature of the function you
 are trying to solve - speaking of which, can you think of a limitation of trying to solve a periodic function with iterative calculation?
-

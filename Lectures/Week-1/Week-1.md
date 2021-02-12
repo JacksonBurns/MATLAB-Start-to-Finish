@@ -31,7 +31,7 @@ The Command Window is synonymous to the Python interpreter. Commands issued here
 
 The Workspace is the same as a function workspace, except that it persists between running scripts and even when no scripts are running. This makes
 prototyping code very simple, as you can do something hack-y to get the variable you want, save the resulting variable, and then reuse for later use and
-(hopefully) better code. 
+(hopefully) better code.
 
 Here's an example:
 
@@ -61,7 +61,7 @@ memory efficient.
 Most (if not all) of you have already taken Python, so I'll just put it this way: MATLAB is similar to Python but with a few differences:
 - MATLAB indexing of matrices uses parentheses, whereas Python uses brackets (This is tedious because functions also use parentheses.)
 - MATLAB, for better of for worse, is a 1 index language (matrices start at 1).
-- Whereas Python requires the use of **import** statements to access functions written elsewhere, MTALAB is able to easily edit its own PATH variable,
+- Whereas Python requires the use of **import** statements to access functions written elsewhere, MATLAB is able to easily edit its own PATH variable,
 	meaning that it can access functions written anywhere.
 - MATLAB has the element *end* in every array, which allows you to easily add to existing arrays like this:
 ```matlab

@@ -36,17 +36,17 @@ y_values = double(x-values);
 % call the plot command
 plot(x_range, y_values)
 ```
-Colon notation is helpful if you know exactly *which* values you want to see the function evaluated at. *Linscpace* is useful if you only care about
+Colon notation is helpful if you know exactly *which* values you want to see the function evaluated at. *linspace* is useful if you only care about
 overall trends/behavior or if you are only interested in the end behavior. Note that for logarithmic functions, the function *[logspace](https://www.mathworks.com/help/matlab/ref/logspace.html)*
 acts in the same way, except that it generates logarithmically spaced values.
 
 One of the most common errors you will see when plotting functions revolves around [Array vs. Matrix Operations](https://www.mathworks.com/help/matlab/matlab_prog/array-vs-matrix-operations.html) and when
 you accidentally try to do one instead of the other. Remember that certain matrix based operations are undefined (such as division) and what you are
 probably after is *element-wise* operation, where you iterate through every element in the matrix and divide by a given scalar value. Element-wise
-operations are denoted with a **.**, such as **./** and **.^**. 
+operations are denoted with a **.**, such as **./** and **.^**.
 
 ## Customizing Plot Programmatically
-Although MATLAB's [property inspector](https://www.mathworks.com/help/matlab/ref/propertyinspector.html) is an excellent tool for fine tuning plots, 
+Although MATLAB's [property inspector](https://www.mathworks.com/help/matlab/ref/propertyinspector.html) is an excellent tool for fine tuning plots,
 reproducibility is limited and the slow. It is good practice to use the below commands to customize your plots in-line, rather than by hand after
 generating them. It is also a great idea to make a general plot customizing function that calls all related formatting commands at once, saving you
 time in the future - an example of this is included at the end.
@@ -95,8 +95,7 @@ particularly for our engineering classes.
 This code is shared as a *.m* file in the Code Examples repository with better in-line documentation [link](https://github.com/JacksonBurns/MATLAB-Start-to-Finish/blob/master/Code-Examples/Week-2/makePretty.m).
 
 Notice that we do not have to pass in any reference to the figure to operate on when calling *makePretty*. This is because plotting functions in
-MATLAB will inherently call *gcf* ([get current figure documentation](https://www.mathworks.com/help/matlab/ref/gcf.html) and operate on whatever
-plot is currently active.
+MATLAB will inherently call *gcf* ([get current figure documentation](https://www.mathworks.com/help/matlab/ref/gcf.html) which is not a variable but rather a function. Whenever you call it, it will retrieve whichever is the current figure. gcf returns the current figure handle. If a figure does not exist, then gcf creates a figure and returns its handle. You can use the figure handle to query and modify figure properties.
 ```matlab
 function makePretty(intitle,inxlabel,inylabel)
     grid on
@@ -109,9 +108,3 @@ function makePretty(intitle,inxlabel,inylabel)
     ylabel(inylabel)
 end
 ```
-    
-
-
-
-
-
