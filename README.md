@@ -38,6 +38,9 @@ If you make changes to the Markdown files in the repository, please run the Pyth
 ```shell
 python makePDFs.py
 ```
+## Resources
+ - Check out [this blog post](http://blogs.mathworks.com/racing-lounge/2021/02/19/introduction-to-matlab-for-python-users/) which walks through introductory MATLAB syntax via analogy to Python.
+
 ## Notes
 If you believe a student has plagiarized code from this repository, we advise you use [this tool](http://theory.stanford.edu/~aiken/moss/) to check for similarity.
 
