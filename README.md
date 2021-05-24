@@ -40,6 +40,7 @@ python makePDFs.py
 ```
 ## Resources
  - Check out [this blog post](http://blogs.mathworks.com/racing-lounge/2021/02/19/introduction-to-matlab-for-python-users/) which walks through introductory MATLAB syntax via analogy to Python.
+ - Here's an excellent open-source [textbook](http://cnx.org/content/col10325/1.18/) which covers MATLAB for engineering in great detail. A PDF of the book is also provided in this repository.
 
 ## Notes
 If you believe a student has plagiarized code from this repository, we advise you use [this tool](http://theory.stanford.edu/~aiken/moss/) to check for similarity.
