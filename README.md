@@ -34,7 +34,7 @@ for elt = myarray
 end
 ```</pre>
 
-If you make changes to the Markdown files in the repository, please run the Python script in the root directory to rebuild the PDFs. Assuming that python is installed, this can be done with the following command in terminal/command prompt:
+If you make changes to the Markdown files in the repository, GitHub will automatically recompile the PDfs. This can also be done manually, if need be. Assuming that python is installed, this can be done with the following command in terminal/command prompt:
 ```shell
 python makePDFs.py
 ```
