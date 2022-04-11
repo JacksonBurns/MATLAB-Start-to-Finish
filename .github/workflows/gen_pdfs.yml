@@ -15,7 +15,6 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           conda install python=3.7
-          python -m pip install -e .
           python -m pip install markdown xhtml2pdf
       
       - name: Generate Documentation
