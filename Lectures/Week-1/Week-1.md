@@ -69,7 +69,7 @@ my_array(end+1) = 3 % assign a new element to the end of my_array
 ```
 - Function definitions look like this:
 ```matlab
-function out_value = my_Function(input_1,input_2):
+function out_value = my_Function(input_1, input_2)
 	% manipulate the returned value at multiple points, if needed
 	out_value = input_1 / input_2;
 	disp("division successful")
