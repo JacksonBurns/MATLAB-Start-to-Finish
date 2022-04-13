@@ -96,4 +96,4 @@ Ultimately the decision is up to you, but we highly recommend keeping your numer
 it's easy to handle the mental gymnastics, but when you have functions of functions (Week 7) and are working with iterative integral calculations (Week 5)
 you will likely find that having them separate in the code makes it *far* easier to keep it straight in your head.
 
-
+For a code example demonstrating how to use MATLAB for annoying multivariate derivatives (among other things), [click here](https://github.com/JacksonBurns/MATLAB-Start-to-Finish/blob/master/Code-Examples/Week-4/week_4_example.m).
