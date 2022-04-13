@@ -103,4 +103,4 @@ x_data = [0.1 0.2 0.3]
 y_data = [37, 64, 8]
 plot(x_data, y_data)
 ```
-See the MATLAB documentation for plot [here](https://www.mathworks.com/help/matlab/ref/plot.html).
+See the MATLAB documentation for plot [here](https://www.mathworks.com/help/matlab/ref/plot.html). Check out an [example MATLAB code file](https://github.com/JacksonBurns/MATLAB-Start-to-Finish/blob/master/Code-Examples/Week-1/week_1_example.m) that demonstrates the key syntax shown above.
