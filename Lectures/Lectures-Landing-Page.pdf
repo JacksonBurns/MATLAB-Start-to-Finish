@@ -2,7 +2,7 @@
 %“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R
+/F1 2 0 R /F2 3 0 R /F3 12 0 R
 >>
 endobj
 2 0 obj
@@ -47,69 +47,74 @@ endobj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://jacksonburns.github.io/MATLAB-Start-to-Finish/Lectures/Week-1/Week-1)
->> /Border [ 0 0 0 ] /Rect [ 29.34646 709.9383 40.59646 721.1883 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 176.909 709.9383 246.0965 721.1883 ] /Subtype /Link /Type /Annot
 >>
 endobj
 9 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://jacksonburns.github.io/MATLAB-Start-to-Finish/Lectures/Week-2/Week-2)
->> /Border [ 0 0 0 ] /Rect [ 29.34646 662.3746 40.59646 673.6246 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 202.7465 662.3746 271.934 673.6246 ] /Subtype /Link /Type /Annot
 >>
 endobj
 10 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://jacksonburns.github.io/MATLAB-Start-to-Finish/Lectures/Week-3/Week-3)
->> /Border [ 0 0 0 ] /Rect [ 29.34646 614.8108 40.59646 626.0608 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 252.779 614.8108 321.9665 626.0608 ] /Subtype /Link /Type /Annot
 >>
 endobj
 11 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://jacksonburns.github.io/MATLAB-Start-to-Finish/Lectures/Week-4/Week-4)
->> /Border [ 0 0 0 ] /Rect [ 29.34646 567.2471 40.59646 578.4971 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 324.8915 567.2471 394.079 578.4971 ] /Subtype /Link /Type /Annot
 >>
 endobj
 12 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://jacksonburns.github.io/MATLAB-Start-to-Finish/Lectures/Week-5/Week-5)
->> /Border [ 0 0 0 ] /Rect [ 29.34646 519.6833 40.59646 530.9333 ] /Subtype /Link /Type /Annot
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
 >>
 endobj
 13 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://jacksonburns.github.io/MATLAB-Start-to-Finish/Lectures/Week-6/Week-6)
->> /Border [ 0 0 0 ] /Rect [ 29.34646 472.1196 40.59646 483.3696 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://jacksonburns.github.io/MATLAB-Start-to-Finish/Lectures/Week-5/Week-5)
+>> /Border [ 0 0 0 ] /Rect [ 159.389 519.6833 228.5765 530.9333 ] /Subtype /Link /Type /Annot
 >>
 endobj
 14 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://jacksonburns.github.io/MATLAB-Start-to-Finish/Lectures/Week-7/Week-7)
->> /Border [ 0 0 0 ] /Rect [ 29.34646 424.5558 40.59646 435.8058 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://jacksonburns.github.io/MATLAB-Start-to-Finish/Lectures/Week-6/Week-6)
+>> /Border [ 0 0 0 ] /Rect [ 252.779 472.1196 321.9665 483.3696 ] /Subtype /Link /Type /Annot
 >>
 endobj
 15 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://jacksonburns.github.io/MATLAB-Start-to-Finish/Lectures/Week-8/Week-8)
->> /Border [ 0 0 0 ] /Rect [ 29.34646 376.9921 40.59646 388.2421 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://jacksonburns.github.io/MATLAB-Start-to-Finish/Lectures/Week-7/Week-7)
+>> /Border [ 0 0 0 ] /Rect [ 276.959 424.5558 346.1465 435.8058 ] /Subtype /Link /Type /Annot
 >>
 endobj
 16 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://jacksonburns.github.io/MATLAB-Start-to-Finish/Lectures/Week-9/Week-9)
->> /Border [ 0 0 0 ] /Rect [ 29.34646 329.4283 40.59646 340.6783 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://jacksonburns.github.io/MATLAB-Start-to-Finish/Lectures/Week-8/Week-8)
+>> /Border [ 0 0 0 ] /Rect [ 292.379 376.9921 361.5665 388.2421 ] /Subtype /Link /Type /Annot
 >>
 endobj
 17 0 obj
 <<
-/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 
-  14 0 R 15 0 R 16 0 R ] /Contents 32 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 31 0 R /Resources <<
+/A <<
+/S /URI /Type /Action /URI (https://jacksonburns.github.io/MATLAB-Start-to-Finish/Lectures/Week-9/Week-9)
+>> /Border [ 0 0 0 ] /Rect [ 171.9215 329.4283 241.109 340.6783 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 13 0 R 14 0 R 
+  15 0 R 16 0 R 17 0 R ] /Contents 33 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 32 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -117,129 +122,130 @@ endobj
 >> /Type /Page
 >>
 endobj
-18 0 obj
-<<
-/Outlines 20 0 R /PageMode /UseNone /Pages 31 0 R /Type /Catalog
->>
-endobj
 19 0 obj
 <<
-/Author () /CreationDate (D:20220411185904+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20220411185904+00'00') /Producer (xhtml2pdf <https://github.com/xhtml2pdf/xhtml2pdf/>) 
-  /Subject () /Title () /Trapped /False
+/Outlines 21 0 R /PageMode /UseNone /Pages 32 0 R /Type /Catalog
 >>
 endobj
 20 0 obj
 <<
-/Count 2 /First 21 0 R /Last 21 0 R /Type /Outlines
+/Author () /CreationDate (D:20220413014024+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20220413014024+00'00') /Producer (xhtml2pdf <https://github.com/xhtml2pdf/xhtml2pdf/>) 
+  /Subject () /Title () /Trapped /False
 >>
 endobj
 21 0 obj
 <<
-/Count -9 /Dest [ 17 0 R /Fit ] /First 22 0 R /Last 30 0 R /Parent 20 0 R /Title (Lectures)
+/Count 2 /First 22 0 R /Last 22 0 R /Type /Outlines
 >>
 endobj
 22 0 obj
 <<
-/Dest [ 17 0 R /Fit ] /Next 23 0 R /Parent 21 0 R /Title (Week 1)
+/Count -9 /Dest [ 18 0 R /Fit ] /First 23 0 R /Last 31 0 R /Parent 21 0 R /Title (Lectures)
 >>
 endobj
 23 0 obj
 <<
-/Dest [ 17 0 R /Fit ] /Next 24 0 R /Parent 21 0 R /Prev 22 0 R /Title (Week 2)
+/Dest [ 18 0 R /Fit ] /Next 24 0 R /Parent 22 0 R /Title (Week 1: MATLAB Fundamentals)
 >>
 endobj
 24 0 obj
 <<
-/Dest [ 17 0 R /Fit ] /Next 25 0 R /Parent 21 0 R /Prev 23 0 R /Title (Week 3)
+/Dest [ 18 0 R /Fit ] /Next 25 0 R /Parent 22 0 R /Prev 23 0 R /Title (Week 2: Advanced Plotting)
 >>
 endobj
 25 0 obj
 <<
-/Dest [ 17 0 R /Fit ] /Next 26 0 R /Parent 21 0 R /Prev 24 0 R /Title (Week 4)
+/Dest [ 18 0 R /Fit ] /Next 26 0 R /Parent 22 0 R /Prev 24 0 R /Title (Week 3: Review Session #1)
 >>
 endobj
 26 0 obj
 <<
-/Dest [ 17 0 R /Fit ] /Next 27 0 R /Parent 21 0 R /Prev 25 0 R /Title (Week 5)
+/Dest [ 18 0 R /Fit ] /Next 27 0 R /Parent 22 0 R /Prev 25 0 R /Title (Week 4: Numeric vs. Symbolic)
 >>
 endobj
 27 0 obj
 <<
-/Dest [ 17 0 R /Fit ] /Next 28 0 R /Parent 21 0 R /Prev 26 0 R /Title (Week 6)
+/Dest [ 18 0 R /Fit ] /Next 28 0 R /Parent 22 0 R /Prev 26 0 R /Title (Week 5: Integrals and Iterative Solving)
 >>
 endobj
 28 0 obj
 <<
-/Dest [ 17 0 R /Fit ] /Next 29 0 R /Parent 21 0 R /Prev 27 0 R /Title (Week 7)
+/Dest [ 18 0 R /Fit ] /Next 29 0 R /Parent 22 0 R /Prev 27 0 R /Title (Week 6: Review Session #2)
 >>
 endobj
 29 0 obj
 <<
-/Dest [ 17 0 R /Fit ] /Next 30 0 R /Parent 21 0 R /Prev 28 0 R /Title (Week 8)
+/Dest [ 18 0 R /Fit ] /Next 30 0 R /Parent 22 0 R /Prev 28 0 R /Title (Week 7: Mini-Project Introduction)
 >>
 endobj
 30 0 obj
 <<
-/Dest [ 17 0 R /Fit ] /Parent 21 0 R /Prev 29 0 R /Title (Week 9)
+/Dest [ 18 0 R /Fit ] /Next 31 0 R /Parent 22 0 R /Prev 29 0 R /Title (Week 8: Mini-Project Workshop)
 >>
 endobj
 31 0 obj
 <<
-/Count 1 /Kids [ 17 0 R ] /Type /Pages
+/Dest [ 18 0 R /Fit ] /Parent 22 0 R /Prev 30 0 R /Title (Week 9: Wrap-up)
 >>
 endobj
 32 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 850
+/Count 1 /Kids [ 18 0 R ] /Type /Pages
+>>
+endobj
+33 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1611
 >>
 stream
-Gb!l^9lJ`N&;KZOME/,-1>1@LmBK[>9.H(T;U5j/:`=tc6^.NINYb$5VHG8ZP!`c2_)jI0GFmLXRR$@.l$G5jG[J8.)$*;WY(/?D.*geY)#P@Yn:t&qd\G5k>B%DdY`dWt%C\h`*mBe<;'(^`%`n1.Uk'l0e^7DCK&_WV*D/Ue'53(T(`ji"hVC];i09QLmKPd\>"]uh,aD2&9S(FQSim%:1YIeb!%^d=UD^t=o/KqOC?!KB."4F$e-`l[e%>C9>UNB?rpdL'T(<W&)K`u$p/&UK$(`B^\JOOaC.6neQ6AGAA/>jo*J$Xr>",Mm9/Lg?Tn4r"Pn#2gs4so#%R\mVo,=aaZBL`@-d7UE1_RpP9uHX_2_DM#3:tcI*ea8ALp-5s330*[^4XE!GS?d>bcYkl;8]KJSW(`\Hj@]R&1sZc%\Lnc%#3k'Y-0J\rG/s_pbBZp;iVWW;1r@V?WM08p\7R7MfAO)SBe/_e;th1DI57h_4jg<QdBfh%'*JcP,gG^.-L3!Si7>FP"<E#9LC\m:?']t>,E9$VaPS("Jmk&1$J;f*mc&\(9LQs1ak[d-8bh'ep2*g@'n\5$niP,Cn?fb<qfjAOg+K89$u6-YCS`M'cI5^^F/pcAu:'6c'FG2T"fZ>$_a\TXpM>X@uqj8s*]VR4)6^D=m^6j`rh(@0U+H*C@<rpeQJsBk^Bmt*A20g3N"(5)=0.qh-$f?_PV,c4(-^`EYA=DIV,(p=udjlH+hO?m602$T!cnKD.g!%,)'hL4(-^0ORbK_5/VQ7[1X:ab]^8/KroqnPM`)-)7K"8eI`/#[l<al!*^BNq&O4B@>E-3,o="7/aq@Hp]K/EOgG~>endstream
+Gb!l_gMYb*&;KZF'Ed\r[qHWK9_kjY2N%Y$_J-[([3F([)BE'[ZI;#9%V==MdVe/7(9kTkB[U!&MY#07)%J(upn>sY3!4CaK<oV+Peh/:<"K):$huD;q0I(<s(FK_)8_(?$?R[fW#.tXk-=rNbEKRV-b1DK0F_"ADos>i()F)81Jp.1RB\(iTMeStS?PiL'2#d^],=/<\R>\#-b*KoGC]sO1*1D%AO'i(:0dhP3V1Rc$.,fIq34NsF^a=10!5!kAm\s>g,jW6/FW.:gsq@&LB%(W]=@!9paV,d;P=7),bY7A&a.h-WWV[[fUQcUq"uM.cp/1;5nP9R8*I!]7&p2%.9u[G+s`-+T9%!+9u?Da3$X6BST.>rG_(5tO@_p?Ard2b=8[;R-R>,t-(B-UZ3plUDk@0l]L^L\"4aMr(=FJCF&3U58*a\'<H\GAd"H'oX#Kef,rnYoV;6X9S`n+VSJ_BAi3\I&.Z#`NbMjkV=hhrQ@W(/BI?^k^B.tS[Oa8R5BW)4"5=ao`JXNAn_N6>BnUYA].Z7;p?sK-k_2W:Q'sLI"G"B30S/a'd6[hAIHR+`lLkcshJ1?F)`i0``(Jo/d#bM8;h[A`rO?u0s#58Q9%Ge&%gR#?_,i%*t1qL-h%d4$Z]q&HAI0\qX5*%Ig=&F9''S.A-%Epe.0T$135HP3M^?Y(Reo9j@^:oRV86d[l)n:`0'#Q1NW[c,W&ERtPhb^M'o"tr1PP>W*/M7tCMrNAMG;*&i)\TH\Dl4&[MW,V,)&"MYJ[b5nPfIqWdoN]*rKe?\U&0`=9;1oF`uKVpk'2c.>[1IETiCF?J46#=i\#9G"u%ndb:(Q.WW`gjg/US-I#n2],P/nE:nhLXVB*Gg$V6q53$M^W!hX=n\?F8%PR)`5#Q#S[@SC^oIOSVI6QQ$e@LVM\h5%G9*/[fJbLbIZ"tgEW>c_cK;49hVBI[:mi6GS-%MiW<JQL@[4+'A)a(7s`N+gRbclTt@7j.t.QK,4s-Lb*-fb1dVg(CjkQJE7Rah\T<ghsJXS\OgdXT[%#h0m(Ia!4%9&A5=h9&(N1@Y&X^'qVOT?G!Jm`nDF'<jZ_7gktebkp:Ud9-b,&oQG/GG1Q$dXZ".\8`U3\CdpOg.827C*YCe#JWH`I<f5BaWd[>:;=h2LX!1h6UVocP-NZ-Q\W)@#L#)mSYtBgI$>^0,!r9=s(cGQfSb(\/=6ilI:aXp\fGhQi&fO8S>c4tk/q1YSUAEWBs)cXg58IOJYl@<-)YOqus'*kc%=@ZeXC9jSqn'-WIAt!'iFD"2NI>N(-`>G!pk!@n:OH_.YFF6cYR]=K.+XmY?Wq`[aY^]P@<8G^p[Y;g)bSo_!\;*8e_l)96e63VPRV;o(N-Vqc<&Pn=af4I<?eP6m6$IFQL3_La$YjlNSa)?aGJ7#"r]BDI-(`_f0suJDN!&])JD_E2;3I/B8#q*42je<9m3YtnFDHAga8ELP&*c^mP^Ht*jVDnEc,g\-+KtH,@[lC"T]!ckO5[_7qPOf')$Nm05"&g@R;g7Kj6TglS;Y7eq__/APEBh?,BI5<I]YK>ip76j*-eVJ\,Y?_SkR6rT"&k9:OrJ3/+Z;^B7kqPCEQJfF**~>endstream
 endobj
 xref
-0 33
+0 34
 0000000000 65535 f 
 0000000073 00000 n 
-0000000114 00000 n 
-0000000221 00000 n 
-0000000333 00000 n 
-0000000539 00000 n 
-0000000774 00000 n 
-0000001027 00000 n 
-0000001271 00000 n 
-0000001499 00000 n 
-0000001727 00000 n 
-0000001956 00000 n 
-0000002185 00000 n 
-0000002414 00000 n 
-0000002643 00000 n 
-0000002872 00000 n 
-0000003101 00000 n 
-0000003330 00000 n 
-0000003636 00000 n 
-0000003723 00000 n 
-0000003976 00000 n 
-0000004050 00000 n 
-0000004164 00000 n 
-0000004252 00000 n 
-0000004353 00000 n 
-0000004454 00000 n 
-0000004555 00000 n 
-0000004656 00000 n 
-0000004757 00000 n 
-0000004858 00000 n 
-0000004959 00000 n 
-0000005047 00000 n 
-0000005108 00000 n 
+0000000125 00000 n 
+0000000232 00000 n 
+0000000344 00000 n 
+0000000550 00000 n 
+0000000785 00000 n 
+0000001038 00000 n 
+0000001282 00000 n 
+0000001509 00000 n 
+0000001736 00000 n 
+0000001964 00000 n 
+0000002192 00000 n 
+0000002308 00000 n 
+0000002536 00000 n 
+0000002764 00000 n 
+0000002992 00000 n 
+0000003220 00000 n 
+0000003448 00000 n 
+0000003754 00000 n 
+0000003841 00000 n 
+0000004094 00000 n 
+0000004168 00000 n 
+0000004282 00000 n 
+0000004391 00000 n 
+0000004511 00000 n 
+0000004631 00000 n 
+0000004754 00000 n 
+0000004888 00000 n 
+0000005008 00000 n 
+0000005136 00000 n 
+0000005260 00000 n 
+0000005357 00000 n 
+0000005418 00000 n 
 trailer
 <<
 /ID 
-[<38dd5599ef3d857cadc76a04a178592d><38dd5599ef3d857cadc76a04a178592d>]
+[<ffa6741dd8b225403c6fd7a25eea2cd1><ffa6741dd8b225403c6fd7a25eea2cd1>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
-/Info 19 0 R
-/Root 18 0 R
-/Size 33
+/Info 20 0 R
+/Root 19 0 R
+/Size 34
 >>
 startxref
-6049
+7121
 %%EOF
